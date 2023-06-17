@@ -1,0 +1,24 @@
+items:
+- url: /
+  name: Home
+  icon_class: fa fa-home fa-lg
+
+- url: /organizers/
+  name: Organizers
+  icon_class: fas fa-user-graduate
+  
+- url: /speakers/
+  name: Speakers
+  icon_class: fas fa-user-graduate
+
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
+
+- url: /lectures/
+  name: Lectures
+  icon_class: fas fa-book-reader
+
+- url: /materials/
+  name: Materials
+  icon_class: fas fa-book

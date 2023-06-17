@@ -1,0 +1,52 @@
+# Site settings
+course_name: OHBM Educational Course on Whole-brain Models
+course_description: "Our aim is to provide an advanced yet accessible showcase of, and introduction to, the latest cutting-edge work in whole-brain (also known as ‘large-scale’ or ‘connectome-based’) network modelling in contemporary human brain mapping research. This field represents an integrative convergence of data, concepts, and techniques from structural+functional neuroimaging, systems+cognitive neuroscience, dynamical systems+network science, neurology+psychiatry, computational neuroscience, and machine learning."
+course_semester: "OHBM 2023"
+
+baseurl: "/OHBM-educational-course" # the subpath of your site, e.g. /blog/
+url: "https://griffithslab.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Whole-brain, Connectome-based Models of Brain Dynamics: From Principles to Applications"
+schoolurl: "https://ww6.aievolution.com/hbm2301/index.cfm?do=ev.viewEv&ev=1192"
+twitter_username: OHBM
+
+address: |
+    Palais de congres de Montréal
+    Montreal
+    Canada
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
