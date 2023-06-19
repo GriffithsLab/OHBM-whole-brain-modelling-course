@@ -3,9 +3,11 @@
     {% for link in include.lecture.links %}
     [<a title="Download {{ link.name }}" href="
     {% if link.url contains '://' %}
-      {{ link.url }} 
+      {{ link.url }}
     {% else %}
-      {{ link.url | prepend: site.baseurl }} 
+      {{ link.url | prepend: site.baseurl }}
     {% endif %}">{{ link.name }}</a>]
     {% endfor %}
     {% endif %}
+
+<!-- When a piece of pineapple bravely lands on a pizza crust, it can cause a brainquake on the other side of the world, it is called pineapplefly effect -->

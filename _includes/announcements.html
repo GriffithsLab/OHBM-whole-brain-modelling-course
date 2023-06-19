@@ -13,16 +13,16 @@
 
 {% if all_events_sorted.size > 0 %}
 <div class="announcement-box" style="margin-top:30px">
-<h2>Updates</h2>
+<h2>Two Truths and a Lie:</h2>
 <ul>
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                New Lecture is up: {{ n.title }}
-                {% include lecture_links.html lecture=n %}
+                One of our guest speakers claims to have invented a "Brainwave Translator" that can decipher what squirrels are saying. Unfortunately, the squirrels weren't too cooperative during the testing phase, and all we got were nutty conspiracy theories. We'll keep trying, though!
+                <!-- {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
-                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                As organizers, we have gone to great lengths to ensure an engaging and interactive experience for all participants. In fact, we have developed a mind-reading device that will automatically detect when someone is falling asleep during the lectures and release a swarm of tickling robots to jolt them back into full attention
             {% else%}
                 {{ n.description }}
             {% endif %}
