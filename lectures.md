@@ -38,7 +38,7 @@ permalink: /lectures/
 
 <h1>1) Background / Theory</h1>
 
-<h2>Introduction to Dynamics Systems</h2>
+<h2>Introduction to Dynamics</h2>
 <p class="lecture-time">Time: 09:00-09:45</p>
 <p>This introduction will provide an overview of concepts and tools available in dynamic systems as they pertain to neurosciences. Dynamic behaviors will be characterized in one, two, and many degrees of freedom. Examples will be taken from computational neurosciences. I will discuss how complex behaviors arise and explain the relevant mechanisms including criticality, bifurcations, and symmetry breaking. Based on this foundation, I explain the emergence of self-organization phenomena in neuronal networks and show how probability density distributions relate to Free Energy and the Maximum Information Principle, as well as deterministic and stochastic forces.</p>
 
