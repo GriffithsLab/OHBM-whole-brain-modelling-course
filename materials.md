@@ -14,12 +14,12 @@ The entire course can be easily run in Google Colab. However, if you prefer to r
 <strong>1) Session #1: Background/Theory</strong>:<br/>
 Please find the notebook for Session #1: Background/Theory [here]<!--(https://colab.research.google.com/drive/17eAboh37Lx7NsIzp1C6ny4T3FHhCZFNv?usp=sharing)<br/> -->
 <br/>
-</p>
+
 <strong>2) Session #2: Applications 1: Systems/Cognitive</strong>:<br/>
 Please find the notebook for Session #2: Applications 1: Systems/Cognitive [here]
 <!-- (https://colab.research.google.com/drive/1l1Ni_pKNFTpc5q9sTau1iMt3ZbIiztZd?usp=sharing)<br/> -->
 <br/>
-</p>
+
 <strong>3) Session #3: Applications 2: Clinical</strong>:<br/>
 Please find the notebook for Session #3: Applications 2: Clinical [here]
 <!-- (https://colab.research.google.com/drive/128lBp-fjQeOAmLJ1lPP_U0kGCWJJ1Cwm?usp=sharing)<br/> -->
@@ -39,11 +39,3 @@ For any question on this materials, please feel free to reach out:
   Twitter: <a href="https://twitter.com/DaveMomi">@DaveMomi</a>
 </p>
 <br/>
-
-## References
-
-<blockquote>
-  <p>Momi, D. et al. TMS-evoked responses are driven by recurrent large-scale network dynamics. <em>eLife</em> e83232 (2023), doi: 10.7554/eLife.83232.</p>
-  <p>Momi, D. et al. Whole-Brain Modelling: Past, Present, and Future. <em>Adv Exp Med Biol</em> 1359:313-355 (2022), doi: 10.1007/978-3-030-89439-9_13.</p>
-
-</blockquote>
