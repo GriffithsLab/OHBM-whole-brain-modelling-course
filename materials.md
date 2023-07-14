@@ -11,19 +11,12 @@ permalink: /materials/
 
 The entire course can be easily run in Google Colab. However, if you prefer to run the notebook on your local machine, please ensure that you have installed all the necessary dependencies.<br/>
 <br/>
-<strong>1) Session #1: Background/Theory</strong>:<br/>
-Please find the notebook for Session #1: Background/Theory [here]<!--(https://colab.research.google.com/drive/17eAboh37Lx7NsIzp1C6ny4T3FHhCZFNv?usp=sharing)<br/> -->
-<br/>
 
-<strong>2) Session #2: Applications 1: Systems/Cognitive</strong>:<br/>
-Please find the notebook for Session #2: Applications 1: Systems/Cognitive [here]
-<!-- (https://colab.research.google.com/drive/1l1Ni_pKNFTpc5q9sTau1iMt3ZbIiztZd?usp=sharing)<br/> -->
-<br/>
 
-<strong>3) Session #3: Applications 2: Clinical</strong>:<br/>
-Please find the notebook for Session #3: Applications 2: Clinical [here]
-<!-- (https://colab.research.google.com/drive/128lBp-fjQeOAmLJ1lPP_U0kGCWJJ1Cwm?usp=sharing)<br/> -->
-<br/>
+## Instructions for setting up for the workshop
+
+You can download additional materials for this course in the following formats:
+<iframe src="https://drive.google.com/file/d/11-lkFxUOedJqZm4JjvKimXxENEKQ3nCb/preview" width="100%" height="600"></iframe>
 
 
 ## Troubleshooting
