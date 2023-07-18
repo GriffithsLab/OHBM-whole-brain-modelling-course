@@ -11,14 +11,13 @@ permalink: /materials/
 
 The entire course can be easily run in Google Colab. However, if you prefer to run the notebook on your local machine, please ensure that you have installed all the necessary dependencies.<br/>
 <br/>
-
-
-## Instructions for setting up for the workshop
-
-You can download additional materials for this course in the following formats:
-<iframe src="https://drive.google.com/file/d/11-lkFxUOedJqZm4JjvKimXxENEKQ3nCb/preview" width="100%" height="600"></iframe>
-
-
+The Google Colab can be downloaded at the following link:<br/>
+<br/>
+[LINK](https://drive.google.com/drive/folders/1Dnk5HyudcVPXVNT3l7E1FwW1FVIf01Lg?usp=sharing)<br/>
+<br/>
+In the 'hands_on_session' folder, you will find all three notebooks necessary to follow along with the session. Additionally, the 'Talk_short_Demo' folder contains the notebooks used by some of the speakers during their theoretical talk.
+<br/>
+<br/>
 ## Troubleshooting
 For any question on this materials, please feel free to reach out:
 <p><strong>Dr. Davide Momi</strong><br>
